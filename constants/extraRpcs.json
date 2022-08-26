@@ -1457,5 +1457,10 @@
         "rpcs":[
             "https://beta-rpc.mainnet.computecoin.com"
        ]
+    },
+    "10522":{
+        "rpcs":[
+            "http://116.204.64.102:8545"
+       ]
     }
 }
